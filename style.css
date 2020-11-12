@@ -1,0 +1,90 @@
+body {
+    font-style: italic;
+    font-weight: bold;
+	font-family: sans-serif;
+}
+
+
+
+section {
+	width: 100%;
+	padding: 15px;
+	text-align: center;
+}
+
+table {
+	width: 100%;
+	margin: auto;
+	box-shadow: 8px 10px 15px black;
+    min-height: 150px;
+    border: solid black;
+    border-radius: 10px;
+    border-width: 2px;
+	background-color: white;
+}
+
+table th {
+	text-align: center;
+	height: 20px;
+	padding: 2px;
+	color: black;
+    font-size: 20px;
+    font-weight: bold;
+    border: none;
+    border-width: 2px;
+}
+
+table tr {
+    font-size: 18px;
+    font-weight: bold;
+	color: blue;
+    text-align: center;
+    border: none;
+    border-width: 2px;
+}
+
+input {
+    width: 70px;
+    border: solid 2px black;
+    font-weight: bold;
+}
+
+button {
+    font-size: 18px;
+    border-radius: 5px;   
+} 
+
+
+h2	{
+font-size: 10px;
+}
+
+.container {
+	position: relative;
+    height: auto; 
+    width: auto;
+    padding-top: 15px; 
+}
+
+h1, .emptyplace, .show {
+    font-size: 50px;
+    font-weight: bold;
+}
+
+
+.check, .click {
+    font-size: 20px;
+    font-weight: bold;
+	text-align: center;
+}
+
+.hide {
+    font-size: 25px;
+    font-weight: bold;
+    position: center;
+}
+.jumbotron {
+	background-size: cover;
+    background-position: center;
+    box-shadow: 5px 6px 15px black;
+}
